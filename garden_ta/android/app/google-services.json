@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "469509834193",
+    "project_id": "gardening-flutter",
+    "storage_bucket": "gardening-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469509834193:android:890f38b206fe58e1a5ccf0",
+        "android_client_info": {
+          "package_name": "com.example.garden_ta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469509834193-74s3hfel9534moqvrat11sgqdg02je18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbNGAynF0_QNP6jRx7dDjY988DADgp9NQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469509834193-74s3hfel9534moqvrat11sgqdg02je18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
