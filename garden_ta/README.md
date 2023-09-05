@@ -1,6 +1,7 @@
 # garden_ta
 
-A new Flutter project.
+Aplikasi Tugas Besar Smart Gardening App
+  aplikasi ini berfungsi untuk controlling berupa tanaman hias yang akan dimonitor kadar kelembapan tanah, pH tanah, dan Suhu Ruangan.Aplikasi ini dibuat menggunakan framework Flutter dengan bahasa pemrograman Dart
 
 ## Getting Started
 
